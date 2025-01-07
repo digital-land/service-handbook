@@ -1,3 +1,5 @@
+<!-- @stevenjmesser borrowed this from https://github.com/alphagov/design-system-team-docs/ -->
+
 # Contributing to the handbook
 
 Contributions from the team are always welcome! This handbook is currently in alpha, meaning we're testing out what content and guidance is useful. Raising issues and pull requests is strongly encouraged, so that we can develop the handbook as a team.
