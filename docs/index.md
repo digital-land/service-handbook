@@ -17,4 +17,4 @@ What’s written here is the way we do things now, but that will change from tim
 
 Contributions from anyone on the team are welcome and encouraged! This handbook is currently in its early stages of development, and we’re still testing out what content and guidance is useful.
 
-Follow the [contribution guide](https://github.com/digital-land/service-handbook/blob/main/contributing.md) to add to our handbook.
+Follow the [contribution guide](/add-to-the-handbook/) to add to our handbook.
