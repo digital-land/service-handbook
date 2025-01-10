@@ -1,5 +1,6 @@
 ---
-order: 2
+title: Guides
+order: 6
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 
@@ -7,7 +8,3 @@ order: 2
   text: "This page is under construction",
   iconFallbackText: "Warning"
 }) }}
-
-## What we do
-
-## Roles and responsibilities

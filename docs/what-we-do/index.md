@@ -17,4 +17,4 @@ order: 4
 
 ## Our users
 
-## Strategy and objectives
+## Our service model
