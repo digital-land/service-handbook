@@ -1,9 +1,7 @@
 const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
 
 function capitalizeWords(str) {
-    return str.replace(/\b\w/g, function(match) {
-      return match.toUpperCase();
-    });
+    return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 }
 
 module.exports = function(eleventyConfig) {
