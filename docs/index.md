@@ -1,6 +1,7 @@
 ---
 homepage: true
 title: About
+order: 1
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 

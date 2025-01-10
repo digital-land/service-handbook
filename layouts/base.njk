@@ -1,10 +1,6 @@
 {% extends "../node_modules/@x-govuk/govuk-eleventy-plugin/layouts/base.njk" %}
 {% from "./components/wiki-nav/macro.njk" import wikiNav %}
 {% block beforeContent %}
-  {{ govukBreadcrumbs({
-    classes: "govuk-!-display-none-print",
-    items: breadcrumbItems
-  }) if showBreadcrumbs }}
 {% endblock %}
 
 {% block content %}
