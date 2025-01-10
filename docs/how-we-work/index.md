@@ -1,6 +1,6 @@
 ---
-title: What we do
-order: 4
+title: How we work
+order: 5
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 
@@ -8,13 +8,3 @@ order: 4
   text: "This page is under construction",
   iconFallbackText: "Warning"
 }) }}
-
-## Mission
-
-## Vision
-
-### The problem we’re solving
-
-## Our users
-
-## Strategy and objectives
