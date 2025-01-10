@@ -1,5 +1,5 @@
 ---
-title: What we do
+order: 2
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 
@@ -7,13 +7,3 @@ title: What we do
   text: "This page is under construction",
   iconFallbackText: "Warning"
 }) }}
-
-## Mission
-
-## Vision
-
-### The problem we’re solving
-
-## Our users
-
-## Strategy and objectives

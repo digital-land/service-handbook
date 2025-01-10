@@ -43,10 +43,12 @@ module.exports = function(eleventyConfig) {
             const key = page.fileSlug || 'home'; // Default to 'home' if no slug
             const title = page.data.title || capitalizeWords(key.replace(/-/g, ' ')); // Title defaults to slug if none is provided
             const url = page.url || `/`; // Default URL if none is provided
+            const order = page.data.order || 1000; // Default order if none is provided
             // Create an object for the page
             const pageObject = {
                 title: title,
                 url: url,
+                order: order,
                 children: {} // Initialize empty children
             };
     
@@ -69,10 +71,12 @@ module.exports = function(eleventyConfig) {
                         structure[currentDir] = {
                             title: capitalizeWords(currentDir.replace(/-/g, ' ')),
                             url: pageObj.url,
+                            order: pageObj.order,
                             children: {}
                         };
                     } else {
                         structure[currentDir].url = pageObj.url;
+                        structure[currentDir].order = pageObj.order;
                     }
                     return;
                 }
@@ -87,6 +91,7 @@ module.exports = function(eleventyConfig) {
                     structure[currentDir] = {
                         title: currentDir.replace(/-/g, ' '),
                         url: '',
+                        order: 1000,
                         children: {}
                     };
                 }
@@ -99,7 +104,19 @@ module.exports = function(eleventyConfig) {
             insertIntoStructure(result, pathParts, pageObject);
         });
     
-        return result;
+        // Sort the result by order
+        const sortStructure = (structure) => {
+            const sorted = {};
+            Object.keys(structure)
+                .sort((a, b) => structure[a].order - structure[b].order)
+                .forEach(key => {
+                    sorted[key] = structure[key];
+                    sorted[key].children = sortStructure(structure[key].children);
+                });
+            return sorted;
+        };
+    
+        return sortStructure(result);
     };
     
     // Add the custom collection to Eleventy
