@@ -16,6 +16,7 @@ Our aim is to make the planning system fit for the 21st century by making planni
 Data is a key foundation that will enable the planning system to transform. For example, it's utilised by digital planning services like PlanX, which can reduce delays in planning decisions and increase the success rate of planning applications. 
 
 ![A diagram of the Planning Data flywheel, illustrating a cyclical process. It starts with changing places (depicted by buildings, trees, and a wind turbine), which are administered by organisations collecting and standardising data. This data is made available nationally (shown as layered maps) and enables planning services (represented by hands using digital devices). These services inform decisions made by communities (depicted as a group of people), which lead back to changing places, completing the loop and reinforcing the cycle.](../assets/images/planning-data-flywheel.jpg)
+[Planning Data Flywheel](https://www.flickr.com/photos/psd/53561519291/in/album-72157703657907285) © psd
 
 We believe this will lead to: 
 
