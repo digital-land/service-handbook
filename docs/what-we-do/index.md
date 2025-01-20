@@ -26,6 +26,12 @@ We believe this will lead to:
 
 ### The problem we’re solving
 
+Here is a short video to describe the problem we're working on.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UuugC3rV6QI?si=EkMoWgCYeAaX81fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+You can also [view the video and transcript on YouTube](https://www.youtube.com/watch?v=UuugC3rV6QI).
+
 Planning decisions are devolved across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
 
 When you try to aggregate the data, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their Article 4 directions, for example. Or the coordinate reference systems are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. 
@@ -86,3 +92,9 @@ If we're successful in achieving our mission, there will be
 Our North Star is the supply utilisation rate: how much of the data is being used. This helps ensure we're meeting the needs of data users in a way that maximises benefits for the public sector.
 
 We also track availability, quality and coverage. You can see our key performance indicators on our [performance dashboard](https://www.planning.data.gov.uk/about/performance). Each sub-service has its own key performance indicators.
+
+## Links to other materials
+
+Here's a list of videos, blog posts, presentations and other materials that tell you what we're doing and why.
+
+- [Introducing the planning data platform (blog post)](https://mhclgdigital.blog.gov.uk/2022/09/28/introducing-the-planning-data-platform/)
