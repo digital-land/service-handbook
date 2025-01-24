@@ -86,7 +86,7 @@ If we're successful in achieving our mission, there will be
 - a growing supply of data provided by local planning authorities
 - more trustworthy data provided over time, with minimal datasets meeting immediate needs
 - useful and actionable feedback provided to data providers, helping them improve data quality and processes iteratively
-- [this list is unfinished]
+- and more <!-- This list is unfinished -->
 
 ### Key performance indicators
 
