@@ -33,7 +33,7 @@ Here is a short video to describe the problem we're working on.
 
 You can also [view the video and transcript on YouTube](https://www.youtube.com/watch?v=UuugC3rV6QI).
 
-Planning decisions are [devolved](https://www.parliament.uk/site-information/glossary/devolution/) across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
+Planning decisions are [devolved](https://www.parliament.uk/site-information/glossary/devolution/) across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority (LPA) and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
 
 When you try to gather the data together, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their tree preservation orders, for example. Or the [coordinate reference systems](https://resource.esriuk.com/blog/2012-3-26-coordinate-systems-and-projections-for-beginners-html/) are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. 
 
