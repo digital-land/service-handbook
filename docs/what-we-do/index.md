@@ -13,7 +13,7 @@ order: 4
 
 Our aim is to make the planning system fit for the 21st century by making planning and housing data easier to find, use and trust. 
 
-Data is a key foundation that will enable the planning system to transform. For example, it's utilised by digital planning services like PlanX, which can reduce delays in planning decisions and increase the success rate of planning applications. 
+Data is a key foundation that will enable the planning system to transform. For example, it's utilised by digital planning services (like [PlanX](https://www.planx.uk/How-it-works)) that can reduce delays in planning decisions and increase the success rate of planning applications. 
 
 ![A diagram of the Planning Data flywheel, illustrating a cyclical process. It starts with changing places (depicted by buildings, trees, and a wind turbine), which are administered by organisations collecting and standardising data. This data is made available nationally (shown as layered maps) and enables planning services (represented by hands using digital devices). These services inform decisions made by communities (depicted as a group of people), which lead back to changing places, completing the loop and reinforcing the cycle.](../assets/images/planning-data-flywheel.jpg)
 [Planning Data Flywheel](https://www.flickr.com/photos/psd/53561519291/in/album-72157703657907285) © psd
@@ -33,9 +33,9 @@ Here is a short video to describe the problem we're working on.
 
 You can also [view the video and transcript on YouTube](https://www.youtube.com/watch?v=UuugC3rV6QI).
 
-Planning decisions are devolved across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
+Planning decisions are [devolved](https://www.parliament.uk/site-information/glossary/devolution/) across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
 
-When you try to aggregate the data, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their Article 4 directions, for example. Or the coordinate reference systems are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. 
+When you try to gather the data together, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their tree preservation orders, for example. Or the [coordinate reference systems](https://resource.esriuk.com/blog/2012-3-26-coordinate-systems-and-projections-for-beginners-html/) are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. 
 
 The data is hard to build upon because its quality isn't managed consistently across the country. This means the data can be patchy, with invalid fields, and it may not be up-to-date. This means the data isn't reliable and it's hard to trust.
 
