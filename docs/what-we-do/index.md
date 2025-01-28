@@ -15,9 +15,9 @@ Our aim is to make the planning system fit for the 21st century by making planni
 
 Data is a key foundation that will enable the planning system to transform. 
 
-For example, if you make a planning application, it could be rejected because you don't know which planning constraints affect the place you want to build. But data about planning constraints can power digital planning services like PlanX, which tell people which planning constraints exist before they make an application. 
+For example, if you make a planning application, it could be rejected because you don't know which [planning considerations](/what-we-do/key-concepts#planning-consideration) affect the place you want to build. But data about planning considerations can power digital planning services like PlanX, which tell people the planning considerations that exist before they make an application. 
 
-These kinds of services can reduce delays in planning decisions and increase the success rate of planning applications, digitally transforming the system.
+These kinds of services can reduce delays in [planning decisions](/what-we-do/key-concepts#planning-decision) and increase the success rate of planning applications, digitally transforming the system.
 
 ![A diagram of the Planning Data flywheel, illustrating a cyclical process. It starts with changing places (depicted by buildings, trees, and a wind turbine), which are administered by organisations collecting and standardising data. This data is made available nationally (shown as layered maps) and enables planning services (represented by hands using digital devices). These services inform decisions made by communities (depicted as a group of people), which lead back to changing places, completing the loop and reinforcing the cycle.](../assets/images/planning-data-flywheel.jpg)
 [Planning Data Flywheel](https://www.flickr.com/photos/psd/53561519291/in/album-72157703657907285) © psd
@@ -37,9 +37,9 @@ Here is a short video to describe the problem we're working on.
 
 You can also [view the video and transcript on YouTube](https://www.youtube.com/watch?v=UuugC3rV6QI).
 
-Planning decisions are [devolved](https://www.parliament.uk/site-information/glossary/devolution/) across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority (LPA) and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
+Planning decisions are [devolved](/what-we-do/key-concepts#devolution) across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
 
-When you try to gather the data together, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their tree preservation orders, for example. Or the [coordinate reference systems](https://resource.esriuk.com/blog/2012-3-26-coordinate-systems-and-projections-for-beginners-html/) are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. 
+When you try to gather the data together, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their tree preservation orders, for example. Or the coordinate reference systems are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. 
 
 The data is hard to build upon because its quality isn't managed consistently across the country. This means the data can be patchy, with invalid fields, and it may not be up-to-date. This means the data isn't reliable and it's hard to trust.
 
