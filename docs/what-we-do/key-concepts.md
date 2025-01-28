@@ -14,11 +14,13 @@ If anything is unclear or you'd like to ask more questions, get in touch with ou
 
 ## Data 
 
-Data is raw facts and figures, often stored in a digital format. Learn more about [data](https://www.bbc.co.uk/bitesize/guides/zphqgdm/revision/1) and [databases](https://www.bbc.co.uk/bitesize/guides/zsfky4j/revision/1).
+Data is raw facts and figures, often stored in a digital format. Spend a day learning more about [data](https://www.bbc.co.uk/bitesize/guides/zphqgdm/revision/1) and [databases](https://www.bbc.co.uk/bitesize/guides/zsfky4j/revision/1).
 
 ## Data service
 
-A data service provides, manages, and processes data to make it accessible, usable, and actionable for various applications. This saves users from having to find, collect, clean, organise and share the data themselves. A data service is typically accessed through interfaces or APIs that allow integration with other applications and systems.
+A data service provides, manages, and processes data to make it accessible, usable, and actionable for various applications. This saves users from having to find, collect, clean, organise and share the data themselves. 
+
+A data service is typically accessed through interfaces or APIs that allow integration with other applications and systems.
 
 ## Devolution
 
@@ -46,4 +48,4 @@ Open data is data that anyone can access, use or share. It is openly licensed, f
 
 When government and public organisations release open data, it enables analysts, researchers, businesses and others to develop useful resources. For example, Citymapper uses Transport for London's open data to help people make the optimal journey across the city. 
 
-Spend 3 hours learning [open data essentials](https://open-data-essentials.learndata.info/). 
+Spend half a day learning [open data essentials](https://open-data-essentials.learndata.info/). 
