@@ -13,7 +13,11 @@ order: 4
 
 Our aim is to make the planning system fit for the 21st century by making planning and housing data easier to find, use and trust. 
 
-Data is a key foundation that will enable the planning system to transform. For example, it's utilised by digital planning services (like [PlanX](https://www.planx.uk/How-it-works)) that can reduce delays in planning decisions and increase the success rate of planning applications. 
+Data is a key foundation that will enable the planning system to transform. 
+
+For example, if you make a planning application, it could be rejected because you don't know which planning constraints affect the place you want to build. But data about planning constraints can power digital planning services like PlanX, which tell people which planning constraints exist before they make an application. 
+
+These kinds of services can reduce delays in planning decisions and increase the success rate of planning applications, digitally transforming the system.
 
 ![A diagram of the Planning Data flywheel, illustrating a cyclical process. It starts with changing places (depicted by buildings, trees, and a wind turbine), which are administered by organisations collecting and standardising data. This data is made available nationally (shown as layered maps) and enables planning services (represented by hands using digital devices). These services inform decisions made by communities (depicted as a group of people), which lead back to changing places, completing the loop and reinforcing the cycle.](../assets/images/planning-data-flywheel.jpg)
 [Planning Data Flywheel](https://www.flickr.com/photos/psd/53561519291/in/album-72157703657907285) © psd
@@ -39,7 +43,7 @@ When you try to gather the data together, you'll find that it's described differ
 
 The data is hard to build upon because its quality isn't managed consistently across the country. This means the data can be patchy, with invalid fields, and it may not be up-to-date. This means the data isn't reliable and it's hard to trust.
 
-You might find some data available elsewhere, on data.gov.uk, for example. But when you try to collect it, you may be asked to apply for a licence or pay for the data. Because planning data isn't openly available and can be expensive to procure from a private company, the market for digital planning services is squeezed, hampering innovation. Researchers and analysts in government may find themselves paying for data that has been produced by government, a waste of public money.
+You might find some data available elsewhere, on data.gov.uk, for example. But when you try to collect it, you may be asked to apply for a licence or pay for the data. Because planning data isn't openly available – as open data – and can be expensive to procure from a private company, the market for digital planning services is squeezed, hampering innovation. Researchers and analysts in government may find themselves paying for data that has been produced by government, a waste of public money.
 
 The Planning Data service aims to solve this by
 
@@ -51,11 +55,20 @@ This will make it easier to find, use and trust planning and housing data in Eng
 
 ## Mission
 
-Our goal and strategic focus for 2025 is to make data faster and provide data users with valuable, trustworthy data at national scale. By growing momentum and proving the scale of the platform, we can establish a healthy, sustainable ecosystem for planning and housing data in England.
+Last year we focused on improving our core capabilities: designing data specifications more quickly, working with data providers to improve data quantity and quality, and scaling our platform and processes to handle more data and users.
+
+Our next goal is to continue growing momentum and proving the scale of the platform. Our strategic focus for 2025 is to provide more data users with valuable, trustworthy data at national scale. 
+<!-- Specifically, this means
+- making data available to data users beyond PropTech, such as analysts, policy officers and property developers
+- making it easier to get started using the data, for example, by pulling it into PowerBI, Tableau and other tools
+- showing how the quantity and quality of data improves over time
+- bringing more people from industry into the data design process
+- and more 
+-->
 
 ## Our users
 
-We're a data platform. We work with data providers to sustain a supply of useful, trustworthy data. We work with data users and consumers to understand and meet their needs. 
+We're a data service. We work with data providers to sustain a supply of useful, trustworthy data. We work with data users and consumers to understand and meet their needs. 
 
 ![A diagram shows data providers and data consumers connected through a central platform, planning.data.gov.uk with text: 'Designing data, Managing data, Using data at national scale.' Arrows indicate a flow of data and value from providers to consumers and back, forming a continuous cycle.](../assets/images/planning-data-platform-model.png)
 
@@ -67,7 +80,7 @@ The Planning Data service has three main sub-services:
 
 - Designing data standards that work well for data providers _and_ data consumers
 - Collecting, indexing and managing data, providing feedback on its quality
-- A platform which makes it as easy and reliable as possible to use and re-use the data
+- A reliable platform which makes it as easy as possible to use and re-use the data
 
 You can read more about [designing data](/what-we-do/designing-data/), [collecting data](/what-we-do/collecting-data/) and [using data](/what-we-do/using-data/).
 
@@ -77,16 +90,16 @@ The Planning Data service will be achieving its aim if
 
 - there is a healthy supply of useful, trustworthy data that is feasible for organisations to provide, and
 - the data is utilised in a wide range of scenarios, in both the public and private sectors.
-
+<!-- This list is unfinished
 If we're successful in achieving our mission, there will be
 
 - a healthy pipeline of data standards moving from the backlog to co-design and through to legislation
 - continued participation from software providers, government bodies, LPAs and other interest groups in the data design process
 - a clear picture of which data specifications will meet the needs of the planning system as a whole
-- a growing supply of data provided by local planning authorities
+- a growing supply of data, for more planning considerations, provided by local planning authorities
 - more trustworthy data provided over time, with minimal datasets meeting immediate needs
 - useful and actionable feedback provided to data providers, helping them improve data quality and processes iteratively
-- and more <!-- This list is unfinished -->
+- and more -->
 
 ### Key performance indicators
 
