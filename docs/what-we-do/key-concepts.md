@@ -22,6 +22,18 @@ A data service provides, manages, and processes data to make it accessible, usab
 
 A data service is typically accessed through interfaces or APIs that allow integration with other applications and systems.
 
+## Data specification
+
+A data specification is a formal document that defines how data should be structured, formatted, stored and exchanged in a consistent way.
+
+Each specification provides a set of rules and guidelines for producing and organising that data, ensuring that it can be read and understood by other systems without any confusion or errors.
+
+Read more about [what we mean by a data specification](https://digital-land.github.io/data-standards/about/what-is-a-data-standard) and [what a data specification won’t do](https://digital-land.github.io/data-standards/about/what-is-a-data-standard#what-a-data-specification-wont-do). 
+
+## Data standard
+
+A data standard is a data specification which has been set as a standard. We set data standards through the Levelling Up & Regeneration Act 2023, which helps ensure that usable data will be provided reliably.
+
 ## Devolution
 
 Devolution is the decentralisation of governmental power. Examples of devolution are the powers granted to the Scottish Parliament, the National Assembly for Wales, the Northern Ireland Assembly, and to the Greater London and local authorities. 
