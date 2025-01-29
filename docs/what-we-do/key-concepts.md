@@ -24,7 +24,9 @@ A data service is typically accessed through interfaces or APIs that allow integ
 
 ## Devolution
 
-Devolution is the decentralisation of governmental power. Examples of devolution are the powers granted to the Scottish Parliament, the National Assembly for Wales, the Northern Ireland Assembly, and to the Greater London and local authorities. Read more about [devolution](https://commonslibrary.parliament.uk/research-briefings/CBP-8599/).
+Devolution is the decentralisation of governmental power. Examples of devolution are the powers granted to the Scottish Parliament, the National Assembly for Wales, the Northern Ireland Assembly, and to the Greater London and local authorities. 
+
+Read more about [devolution](https://commonslibrary.parliament.uk/research-briefings/CBP-8599/). The Office for National Statistics (ONS) publishes a diagram showing [the hierarchy of UK statistical geographies](https://geoportal.statistics.gov.uk/documents/e1e916620c1a4794b7422a4e2f99943e/explore), which can help visualise the layers of devolution. (Not all areas on the diagram have powers, so it is not a diagram of devolution.)
 
 ## Indexing data
 
