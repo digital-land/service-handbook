@@ -9,7 +9,7 @@ order: 2
   iconFallbackText: "Warning"
 }) }}
 
-This sub-service engages with planners, policy-makers and people building digital services to identify and co-design data for planning in England.
+This sub-service is used by planners, policy-makers and people building digital services to highlight and co-design data for planning in England.
 
 Through a [data design process](https://design.planning.data.gov.uk/data-design-process), the data needed and that should be made available on planning.data.gov.uk is identified and determined. The data design process is a collaborative and open process. All interested parties are encouraged to be involved in the design of the data they need, produce and use, and they are openly invited to [contribute to the data design process](https://design.planning.data.gov.uk/how-to-contribute).
 
