@@ -17,4 +17,15 @@ The output of the process is a [technical specification](https://digital-land.gi
 
 Once the technical specification has been created, tested and verified, more data providers are involved in [collecting data](/what-we-do/collecting-data/).
 
-## Roles and responsibilities
+## Capabilities
+
+## Responsibilities
+
+## Key performance indicators
+
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
