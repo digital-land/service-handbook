@@ -19,6 +19,15 @@ Once the technical specification has been created, tested and verified, more dat
 
 ## Capabilities
 
+- Data modelling
+- Data standardisation
+- Data engineering
+- Service design
+- Community management
+- Data licensing
+- Planning expertise
+- Policy and legislation
+
 ## Responsibilities
 
 ## Key performance indicators
