@@ -21,6 +21,7 @@ The sub-service also maintains and operates data processing, providing live supp
 - Data engineering
 - DevOps and reliability engineering
 - Technical architecture and infrastructure
+- Frontend development
 - Service design
 - Product management
 - User support 
@@ -38,7 +39,6 @@ The sub-service also maintains and operates data processing, providing live supp
 - Responds to feedback on data issues from data consumers, passing it as feedback to data providers through [sub-service for data providers](https://submit.planning.data.gov.uk/)
 - Operating our collection and data processing
 - Scaling how many datasets we can process, meeting the challenge of collecting large datasets which change frequently
-- Providing APIs needed by the management and providers teams
 
 ## Key performance indicators
 
