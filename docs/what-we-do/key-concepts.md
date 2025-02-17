@@ -22,15 +22,41 @@ A data service provides, manages, and processes data to make it accessible, usab
 
 A data service is typically accessed through interfaces or APIs that allow integration with other applications and systems.
 
+## Data specification
+
+A data specification is a formal document that defines how data should be structured, formatted, stored and exchanged in a consistent way.
+
+Each specification provides a set of rules and guidelines for producing and organising that data, ensuring that it can be read and understood by other systems without any confusion or errors.
+
+Read more about [what we mean by a data specification](https://digital-land.github.io/data-standards/about/what-is-a-data-standard) and [what a data specification won’t do](https://digital-land.github.io/data-standards/about/what-is-a-data-standard#what-a-data-specification-wont-do). 
+
+## Data standard
+
+A data standard is a data specification which has been set as a standard. We set data standards through the Levelling Up & Regeneration Act 2023, which helps ensure that usable data will be provided reliably.
+
 ## Devolution
 
-Devolution is the decentralisation of governmental power. Examples of devolution are the powers granted to the Scottish Parliament, the National Assembly for Wales, the Northern Ireland Assembly, and to the Greater London and local authorities. Read more about [devolution](https://commonslibrary.parliament.uk/research-briefings/CBP-8599/).
+Devolution is the decentralisation of governmental power. Examples of devolution are the powers granted to the Scottish Parliament, the National Assembly for Wales, the Northern Ireland Assembly, and to the Greater London and local authorities. 
+
+Read more about [devolution](https://commonslibrary.parliament.uk/research-briefings/CBP-8599/). The Office for National Statistics (ONS) publishes a diagram showing [the hierarchy of UK statistical geographies](https://geoportal.statistics.gov.uk/documents/e1e916620c1a4794b7422a4e2f99943e/explore), which can help visualise the layers of devolution. (Not all areas on the diagram have powers, so it is not a diagram of devolution.)
 
 ## Indexing data
 
 The platform does not host data on behalf of a data provider. Data providers publish data and tell us where it's hosted, which allows the platform to collect and index the data. 
 
 It's valuable for data to be made available, in one place, through the platform. However, data providers often have a responsibility to provide the data, or they're the authoritative source. It's important that the data are available from the authoritative source as it can ensure a higher level of accuracy, reliability and credibility.
+
+## Local planning authority
+
+Local planning authorities are organisations in local government with the authority to administer the planning system. Read more about [key decision-takers in the planning system](https://www.gov.uk/government/publications/plain-english-guide-to-the-planning-system/plain-english-guide-to-the-planning-system#key-decision-takers-in-the-planning-system).
+
+## Planning
+
+The purpose of planning is to guide and regulate the way land is used and developed.
+
+Planning policy guides decision-making at local and national levels. It aims to balance different needs and interests in places. Policy also helps meet the needs of a local area, such as for new housing, commercial development, or infrastructure.
+
+Wandsworth Borough Council created an [illustrated booklet](/assets/pdfs/what_is_planning_booklet.pdf) to help explain how planning works, why it’s needed, how policies are made and who is involved. There's a [plain English guide to the planning system](https://www.gov.uk/government/publications/plain-english-guide-to-the-planning-system/plain-english-guide-to-the-planning-system) on GOV.‌UK, and you can also watch a video about [what a town planner does](https://www.youtube.com/watch?v=7J2atrtJIYc).
 
 ## Planning consideration
 

@@ -9,15 +9,13 @@ order: 4
   iconFallbackText: "Warning"
 }) }}
 
+Lots of [planning](/what-we-do/key-concepts#planning) processes are slow and use old tools or paper-based information. MHCLG's [Digital Planning portfolio](https://media.localdigital.gov.uk/uploads/2023/10/17091341/DLUHC_Digital_Planning_Programme_Overview.pdf) thinks that innovative digital products and services can speed things up and make planning more efficient, leading to more property development. 
+
+Those digital tools will need [data](/what-we-do/key-concepts#data) in order to function, and the Planning Data service makes planning data easy to find, use and trust.
+
 ## Vision
 
-Our aim is to make the planning system fit for the 21st century by making planning and housing data easier to find, use and trust. 
-
-Data is a key foundation that will enable the planning system to transform. 
-
-For example, if you make a planning application, it could be rejected because you don't know which [planning considerations](/what-we-do/key-concepts#planning-consideration) affect the place you want to build. But data about planning considerations can power digital planning services (like [PlanX](https://www.planx.uk/How-it-works)), which tell people the planning considerations that exist before they make an application. 
-
-These kinds of services can reduce delays in [planning decisions](/what-we-do/key-concepts#planning-decision) and increase the success rate of planning applications, digitally transforming the system.
+Our aim is to make the planning system fit for the 21st century by making planning and housing data easier to find, use and trust. We make the data available, useful and trustworthy so that people can develop tools on top of the data.
 
 ![A diagram of the Planning Data flywheel, illustrating a cyclical process. It starts with changing places (depicted by buildings, trees, and a wind turbine), which are administered by organisations collecting and standardising data. This data is made available nationally (shown as layered maps) and enables planning services (represented by hands using digital devices). These services inform decisions made by communities (depicted as a group of people), which lead back to changing places, completing the loop and reinforcing the cycle.](../assets/images/planning-data-flywheel.jpg)
 [Planning Data Flywheel](https://www.flickr.com/photos/psd/53561519291/in/album-72157703657907285) © psd
@@ -37,19 +35,39 @@ Here is a short video to describe the problem we're working on.
 
 You can also [view the video and transcript on YouTube](https://www.youtube.com/watch?v=UuugC3rV6QI).
 
-Planning decisions are [devolved](/what-we-do/key-concepts#devolution) across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority (LPA) and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport.
+#### A story about planning applications
 
-When you try to gather the data together, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their tree preservation orders, for example. Or the [coordinate reference systems](https://resource.esriuk.com/blog/2012-3-26-coordinate-systems-and-projections-for-beginners-html/) are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. 
+When people want to build a new property, add an extension to their home or do anything regulated by planning policy, they'll likely need to send a planning application to their [local planning authority](/what-we-do/key-concepts#local-planning-authority) (LPA). 
 
-The data is hard to build upon because its quality isn't managed consistently across the country. This means the data can be patchy, with invalid fields, and it may not be up-to-date. This means the data isn't reliable and it's hard to trust.
+For some applicants it can take over 70 hours to prepare and submit a planning application. Up to 50% of planning applications are invalid and immediately rejected because people don't know which [planning considerations](/what-we-do/key-concepts#planning-consideration) affect the place they want to build. For example, they might not know their house is in a conservation area, an area of special architectural or historic interest which means the appearance or character must be preserved or enhanced.
 
-You might find some data available elsewhere, on data.gov.uk, for example. But when you try to collect it, you may be asked to apply for a licence or pay for the data. Because planning data isn't openly available – as open data – and can be expensive to procure from a private company, the market for digital planning services is squeezed, hampering innovation. Researchers and analysts in government may find themselves paying for data that has been produced by government, a waste of public money.
+But data about planning considerations can power digital planning services (like [PlanX](https://www.planx.uk/How-it-works)), which tell people the planning considerations that exist before they make an application. This can save planning officers (who process planning applications) up to 50% of their time manually processing applications and dealing with errors, which gives them more time to spend on other impactful work.
+
+These kinds of services can reduce delays in [planning decisions](/what-we-do/key-concepts#planning-decision) and increase the success rate of planning applications, digitally transforming the system.
+
+That's just one example of where innovative products and services – powered by planning data – can help speed up planning decisions.
+
+#### The problems with existing data
+
+Imagine you're a startup looking to build innovative planning products and services, like [Tract](https://buildwithtract.com/) or [Xylo](https://www.buildxylo.ai/). You might offer these to planning officers in local government or to property developers building new housing estates, for example.
+
+Planning decisions are [devolved](/what-we-do/key-concepts#devolution) across the country, which means planning data is devolved too. It's in paper files, maps, back-office systems, spreadsheets, databases, and various other places. If you want national or regional planning data, you need to visit each local planning authority (LPA) and collect it. You'll also need to collect data from other organisations, like flood risk zones from the Environment Agency or public transport access nodes from Department for Transport. That takes a lot of time and a lot of effort!
+
+When you try to gather the data together, you'll find that it's described differently. Authorities don't always use the same headings and fields to record their tree preservation orders, for example. Or the [coordinate reference systems](https://resource.esriuk.com/blog/2012-3-26-coordinate-systems-and-projections-for-beginners-html/) are different, with one organisation using OSGB36 and another using WGS84. The data is not standarised and may not be interoperable. It takes even more time and effort to clean it and standardise it.
+
+The data is hard to build upon because its quality isn't managed consistently across the country. This means the data can be patchy, with invalid fields, and it may not be up-to-date. This means the data isn't reliable and it's hard to trust. 
+
+You might find some data available elsewhere, on data.gov.uk, for example. But when you try to collect it, you may be asked to apply for a licence or pay for the data. Because planning data isn't openly available – as [open data](/what-we-do/key-concepts#open-data) – and can be expensive to procure from a private company, the market for digital planning services is squeezed, hampering innovation. 
+
+This is a problem for researchers and analysts in government too, who find themselves paying for data that has been produced by government – a waste of public money.
+
+#### How we solve it
 
 The Planning Data service aims to solve this by
 
 - designing data standards that work well for data providers _and_ data consumers
-- collecting, indexing and managing data, providing feedback on its quality, and
-- providing a platform which make it as easy and reliable as possible to use and re-use the data.
+- collecting, indexing and managing data, helping improve its quality and trustworthiness, and
+- providing a platform which makes it as easy and reliable as possible to use and re-use the data.
 
 This will make it easier to find, use and trust planning and housing data in England.
 
@@ -72,14 +90,32 @@ We're a data service. We work with data providers to sustain a supply of useful,
 
 ![A diagram shows data providers and data consumers connected through a central platform, planning.data.gov.uk with text: 'Designing data, Managing data, Using data at national scale.' Arrows indicate a flow of data and value from providers to consumers and back, forming a continuous cycle.](../assets/images/planning-data-platform-model.png)
 
-It's possible for the organisation providing the data to use the data too, for example, local planning authorities provide data to be used in digital planning services like PlanX.
+You can learn more about our users in the [research and design](research-and-design) section.
+
+### Data providers
+
+- Local planning authorities
+- Development corporations
+- Local waste authorities
+- Central government departments
+- Arms-length bodies
+
+This isn't an exhaustive list.
+
+### Data consumers
+
+- Software developers
+- Researchers
+- Policy officers and analysts
+
+This isn't an exhaustive list.
 
 ## Our service model
 
 The Planning Data service has three main sub-services:
 
 - Designing data standards that work well for data providers _and_ data consumers
-- Collecting, indexing and managing data, providing feedback on its quality
+- Collecting, indexing and managing data, helping improve its quality and trustworthiness
 - A reliable platform which makes it as easy as possible to use and re-use the data
 
 You can read more about [designing data](/what-we-do/designing-data/), [collecting data](/what-we-do/collecting-data/) and [using data](/what-we-do/using-data/).
