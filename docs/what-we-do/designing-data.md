@@ -30,6 +30,11 @@ Once the technical specification has been created, tested and verified, more dat
 
 ## Responsibilities
 
+- Own and maintain the backlog of planning considerations, collecting the planning needs for each specification
+- Use the data design method to co-design priority specifications with data consumers, data providers and other stakeholders
+- Design data specifications and relevant guidance so that data can be collected on the platform
+- Facilitate the working groups and advisory groups when co-designing a specification
+
 ## Key performance indicators
 
 1. 
