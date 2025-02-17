@@ -46,6 +46,18 @@ The platform does not host data on behalf of a data provider. Data providers pub
 
 It's valuable for data to be made available, in one place, through the platform. However, data providers often have a responsibility to provide the data, or they're the authoritative source. It's important that the data are available from the authoritative source as it can ensure a higher level of accuracy, reliability and credibility.
 
+## Local planning authority
+
+Local planning authorities are organisations in local government with the authority to administer the planning system. Read more about [key decision-takers in the planning system](https://www.gov.uk/government/publications/plain-english-guide-to-the-planning-system/plain-english-guide-to-the-planning-system#key-decision-takers-in-the-planning-system).
+
+## Planning
+
+The purpose of planning is to guide and regulate the way land is used and developed.
+
+Planning policy guides decision-making at local and national levels. It aims to balance different needs and interests in places. Policy also helps meet the needs of a local area, such as for new housing, commercial development, or infrastructure.
+
+Wandsworth Borough Council created an [illustrated booklet](/assets/pdfs/what_is_planning_booklet.pdf) to help explain how planning works, why it’s needed, how policies are made and who is involved. There's a [plain English guide to the planning system](https://www.gov.uk/government/publications/plain-english-guide-to-the-planning-system/plain-english-guide-to-the-planning-system) on GOV.‌UK, and you can also watch a video about [what a town planner does](https://www.youtube.com/watch?v=7J2atrtJIYc).
+
 ## Planning consideration
 
 A planning consideration is something specific to an area that may impact the outcome of a planning decision.
