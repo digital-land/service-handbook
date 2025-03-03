@@ -128,6 +128,9 @@ module.exports = function(eleventyConfig) {
         return createNestedStructure(allPages);
     });
 
+    // Put robots.txt in root
+    eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
+
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
