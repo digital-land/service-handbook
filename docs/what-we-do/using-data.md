@@ -8,7 +8,7 @@ order: 4
   iconFallbackText: "Warning"
 }) }}
 
-This sub-service makes it easy for PropTech, analysts, policy officers and other data consumers to make use of valuable planning data.
+This sub-service makes it easier for PropTech, property developers, analysts, policy officers and other data consumers to make use of data about planning and housing.
 
 Data consumers can use the sub-service to download datasets in multiple formats, integrate the API with their tools and software, plus find relevant tools and guidance which helps them make the most datasets, registers and facts. 
 
