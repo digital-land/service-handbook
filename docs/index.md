@@ -4,9 +4,11 @@ title: About
 order: 1
 ---
 
-This is a reference guide for who we are and the way we do things. It’s a handbook for anyone in the Planning Data team that tells us the ‘right way’ to do things.
+This is handbook is for people working on the Planning Data service.
 
-What’s written here is the way we do things now, but that will change from time to time.
+It documents who we are, how we are organised, how we work, and what we believe are the best way to do things.
+
+This is a live document. What’s written here is the way we do things now, but that will change from time to time as we learn.
 
 ## Contribute to the handbook
 
