@@ -4,7 +4,7 @@ title: About
 order: 1
 ---
 
-This is handbook is for people working on the Planning Data service.
+This handbook is for people working on the Planning Data service.
 
 It documents who we are, how we are organised, how we work, and what we believe are the best way to do things.
 
