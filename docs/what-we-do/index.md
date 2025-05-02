@@ -13,6 +13,8 @@ Lots of [planning](/what-we-do/key-concepts#planning) processes are slow and use
 
 Those digital tools will need [data](/what-we-do/key-concepts#data) in order to function, and the Planning Data service makes planning data easy to find, use and trust.
 
+[[toc]]
+
 ## Vision
 
 Our aim is to make the planning system fit for the 21st century by making planning and housing data easier to find, use and trust. We make the data available, useful and trustworthy so that people can develop tools on top of the data.
@@ -34,6 +36,12 @@ Here is a short video to describe the problem we're working on.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UuugC3rV6QI?si=EkMoWgCYeAaX81fI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You can also [view the video and transcript on YouTube](https://www.youtube.com/watch?v=UuugC3rV6QI).
+
+Here is another video, showing how planning data can solve problems for planners.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8TaVbZ-QF2g?si=NI9_0Tw52HOnO3C3&amp;start=2440" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+You can also [view the video and transcript on YouTube](https://youtu.be/8TaVbZ-QF2g?t=2440).
 
 #### A story about planning applications
 
@@ -73,16 +81,9 @@ This will make it easier to find, use and trust planning and housing data in Eng
 
 ## Mission
 
-Last year we focused on improving our core capabilities: designing data specifications more quickly, working with data providers to improve data quantity and quality, and scaling our platform and processes to handle more data and users.
+In 2024, we focused on speeding up and scaling our core capabilities: designing data specifications more quickly, working with data providers to improve data quantity and quality, and scaling our platform and processes to handle more data and users.
 
-Our next goal is to continue growing momentum and proving the scale of the platform. Our strategic focus for 2025 is to provide more data users with valuable, trustworthy data at national scale. 
-<!-- Specifically, this means
-- making data available to data users beyond PropTech, such as analysts, policy officers and property developers
-- making it easier to get started using the data, for example, by pulling it into PowerBI, Tableau and other tools
-- showing how the quantity and quality of data improves over time
-- bringing more people from industry into the data design process
-- and more 
--->
+Our next goal is to continue growing momentum and proving the scale of the platform. We want to unlock data needed for an efficient planning and housing system so that we can see how the system is performing (getting things developed), enable faster planning decisions and plan-making, in pursuit of unlocking the development of more homes.    
 
 ## Our users
 
