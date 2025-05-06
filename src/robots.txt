@@ -1,2 +1,3 @@
 User-agent: *
+Allow: /product-and-delivery/product-operating-model/
 Disallow: /

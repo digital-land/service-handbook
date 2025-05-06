@@ -30,6 +30,8 @@ Step-by-step guides on how to do things and our processes are good. Models, prin
 
 ### How to contribute
 
+The code and text files that build this handbook can be found in the [service-handbook](https://github.com/digital-land/service-handbook) repository on GitHub.
+
 How you contribute will depend on your familiarity with working on GitHub, but contributing to the handbook is a safe way to build your skills. 
 
 #### 1. Using a text editor

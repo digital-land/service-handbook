@@ -13,6 +13,17 @@ module.exports = function(eleventyConfig) {
             },
             productName: 'Service Handbook',
         },
+        footer: {
+            meta: {
+                items: [
+                    {
+                        href: "https://github.com/digital-land/service-handbook/blob/main/",
+                        text: "View source code"
+                    }
+                ],
+                html: 'Built by the <a class="govuk-footer__link" href="https://www.gov.uk/government/organisations/ministry-of-housing-communities-local-government">Ministry of Housing, Communities and Local Government</a>'
+            }
+        },
         titleSuffix: 'Planning Data Service Handbook',
         stylesheets:['/assets/wiki.css'],
         showBreadcrumbs: true,
