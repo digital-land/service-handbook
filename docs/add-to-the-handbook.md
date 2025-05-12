@@ -28,6 +28,8 @@ This handbook is for you. It's a reference, a set of docs to turn to when you're
 
 Step-by-step guides on how to do things and our processes are good. Models, principles, ways of thinking and examples are great. It helps us learn what we do, and how and why we do it.
 
+You can also [give feedback](https://github.com/digital-land/service-handbook/issues/new/choose) on what needs adding or changing.
+
 ### How to contribute
 
 The code and text files that build this handbook can be found in the [service-handbook](https://github.com/digital-land/service-handbook) repository on GitHub.
