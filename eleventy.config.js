@@ -17,6 +17,10 @@ module.exports = function(eleventyConfig) {
             meta: {
                 items: [
                     {
+                        href: "https://github.com/digital-land/service-handbook/issues/new/choose",
+                        text: "Give feedback"
+                    },
+                    {
                         href: "https://github.com/digital-land/service-handbook/blob/main/",
                         text: "View source code"
                     }
