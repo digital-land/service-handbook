@@ -38,6 +38,8 @@ If you’ve completed all the objectives you set last quarter, well done\! You s
 
 You probably need to set new objectives. Have a look at the Strategies in the [VMOST whiteboard](https://app.mural.co/t/mhclg2837/m/mhclg2837/1741707963960/643ec474684f9ff5fa550593ab5bed63f381f601) for your team. These are example objectives you can adopt or adapt. These objectives should help us reach the targets for our sub-mission.
 
+There's a [guide to VMOST](/guides/vmost-explained/) in this handbook.
+
 ## Plan how to achieve your objectives (old and new) 
 
 Next, you’ll need to form a loose plan for how to achieve your old and new objectives. 
