@@ -76,6 +76,47 @@ If you choose this option, you probably know how to do it. Create a branch, comm
 
 You can also create an issue to suggest additions and changes without working directly on the files. Add a new issue via the [Issues view](https://github.com/digital-land/service-handbook/issues) to suggest documentation for the handbook.
 
+### 5. Using GitHub Codespaces (for beginners)
+
+If you are new to coding or GitHub, you can use GitHub Codespaces to make contributions without installing anything on your computer. Here’s how:
+
+1. **Open the repository on GitHub**  
+   Go to the repository page in your web browser.
+
+2. **Start a Codespace**  
+   Click the green **Code** button, then select **Create codespace on main** (or another branch).
+
+3. **Wait for Codespaces to set up**  
+   This will open a new online editor. Wait a few moments for it to finish setting up.
+
+4. **Install everything you need**  
+   In the Codespaces terminal (at the bottom), type:
+   ```
+   make init
+   ```
+   and press Enter.
+
+5. **Start the website**  
+   In the terminal, type:
+   ```
+   make serve
+   ```
+   and press Enter. This will start the handbook website so you can see your changes.
+
+6. **Edit files**  
+   Use the file explorer on the left to find and edit the files you want to change.
+
+7. **Save and commit your changes**  
+   - Click the Source Control icon on the left (it looks like a branch).
+   - Enter a short message describing your changes.
+   - Click the checkmark to commit.
+
+8. **Push your changes and open a Pull Request**  
+   - Click the three dots (…) at the top of the Source Control panel and select **Push**.
+   - GitHub will prompt you to open a Pull Request. Follow the instructions to propose your changes.
+
+If you get stuck, ask for help in the team Slack channel or speak to a developer.
+
 ### Need help?
 
 Ask your team-mates in the team Slack channel, someone will reply and help out.
