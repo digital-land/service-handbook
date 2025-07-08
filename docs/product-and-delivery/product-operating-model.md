@@ -109,9 +109,9 @@ The operating model has a series of recurring, structured workshops and meetings
 
 The bulk of the work each sprint though will be “doing the work” - e.g. coding, designing.
 
-<!-- This diagram presents a simplified version of how the work flows from discovery to delivery, with all the relevant meetings adding structure to this:
+This diagram presents a simplified version of how the work flows from discovery to delivery, with all the relevant meetings adding structure to this:
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXe4j8nUeyKwRofemAJWojQdrqE_c_tmUXUntwfDmFD0ib10WLWcwF28lcYHU7Tp8kXXkCW0zoxxGUa90rDpDt2yoU150AAIQ3_8-Kd8spd57iLZqar9J9lQNxiY4UiC8Sr7F5di?key=6i5OwPSIwjn0hM3iczMH-YMr) -->
+![](../assets/images/product-operating-model-discovery-to-delivery.png)
 
 ### Discovery
 
@@ -129,7 +129,7 @@ The structured, recurring meetings in the discovery track are:
 6. **Design crit** → Playback of design explorations and gathering feedback.
 7. **Tech refinement** → Handover between design and engineering, ensuring designs and scope are well-understood and technically feasible.
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXeJx6OTzR5D_WXVwWxIvKBn06pwcyALDGK5BmtHMQUhn40hHnhtUPB_5T48pHNQAqqYN__9GwcNbUmfNcyvOWVGRK1GS3T4xcIqY3JyZO9Guv_RvUmRjsJvD29ow51lILAbvKFg?key=6i5OwPSIwjn0hM3iczMH-YMr)
+![](../assets/images/product-operating-model-discovery.png)
 
 ### Delivery
 
@@ -147,13 +147,13 @@ Each sprint follows a structured process of figuring out what we need to build a
 6. **QA & release** → 
 7. **Standup** → Daily check-ins to share progress and raise issues and blockers.
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXeI6CYHE2SXdZl5OI7tt7Ft7HezFCClG7FfU39ZVBanb5SPU3LL2ttlrfHyV4fZnu0KfPSqO1QVO9CjVq9V1QDbujc6bPz0ZQVANpWRHgENz-xIkx66jf063yX72wBN8vfsen-GAQ?key=6i5OwPSIwjn0hM3iczMH-YMr)
+![](../assets/images/product-operating-model-delivery.png)
 
 ## Facilitation guide
 
 This section covers a detailed breakdown of each meeting and set of activities.
 
-![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXe4j8nUeyKwRofemAJWojQdrqE_c_tmUXUntwfDmFD0ib10WLWcwF28lcYHU7Tp8kXXkCW0zoxxGUa90rDpDt2yoU150AAIQ3_8-Kd8spd57iLZqar9J9lQNxiY4UiC8Sr7F5di?key=6i5OwPSIwjn0hM3iczMH-YMr)
+![](../assets/images/product-operating-model-discovery-to-delivery.png)
 
 #### _1. Discovery planning_
 
