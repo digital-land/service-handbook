@@ -107,7 +107,7 @@ Use these thoughts to consider any changes to your initiatives. Go back and edit
 
 You must do this 2 weeks before the new quarter starts or earlier.
 
-Use the [OKRs template](https://docs.google.com/presentation/u/0/d/1M0I-1mV-x13xfDnZ0WS6zY0hXN3PQiHfE0DPuL0_5uk/edit) to create a slide for each objective (make a copy). Fill in the key results, most important initiatives, and any risks.
+Use the [OKRs template](https://mhclg.sharepoint.com/:p:/s/DigitalPlanning/Ed-sHarfPS5HgQR5cNBzCp4B1Qu4PBXqz0Nj2xYel_ciyg?e=LYMZ3J) to create a slide for each objective (make a copy). Fill in the key results, most important initiatives, and any risks.
 
 Have a list of all the initiatives you’ve written up, and make sure to highlight where you have dependencies on other teams. 
 
