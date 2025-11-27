@@ -10,7 +10,7 @@ Working in the open has been one of the team’s core values since the very begi
 
 One of the Government Design Principles is [make things open: it makes things better](https://www.gov.uk/guidance/government-design-principles#make-things-open-it-makes-things-better).
 
-Open and agile communication from everyone across the programme can help keep users, people, teams, other organisations and stakeholders interested, engaged and up-to-date about what we are doing. 
+Open and agile communication from everyone across the programme can help keep users, people, teams, other organisations and stakeholders interested, engaged and up-to-date about what we are doing. Making our code, designs and projects open helps others get involved and can make it easier to onboard new team-mates.
 
 Talking about our work openly – not hiding it or making it hard to find – increases our reach and invites people to join the conversation. It brings [participation, agility, momentum, leverage and better feedback loops](https://visitmy.website/2020/01/25/blogging-working-open/#whats-the-point-of-being-open).
 
@@ -51,18 +51,19 @@ Aim to be as open as you can, but remember that you should not share:
 * anything that breaks the Civil Service Code  
 * any personal information about anyone without their permission
 
-If in doubt, ask your service owner. 
+If in doubt, ask your service owner or a policy colleague. 
 
 Read the guide on [simple dos and don'ts for open project boards](/guides/dos-and-donts-for-open-project-boards/).
 
 ## Types of communication
 
-* Blog posts (open) *(see [Digital Land blog, Planning Data](https://digital-land.github.io/blog-post/) or [MHCLG Digital blog](https://mhclgdigital.blog.gov.uk))*  
-* Weeknotes (very open and regular) *(see our [\#weeknotes channel](https://communities-govuk.slack.com/archives/CTRF3SUBH))*  
+* Blog posts (open) *(see [MHCLG Digital blog](https://mhclgdigital.blog.gov.uk))*  
+* Weeknotes (very open and regular) *(see [weeknotes for Extract](https://digital-land.github.io/extract-alpha/weeknotes/) or our [\#weeknotes channel](https://communities-govuk.slack.com/archives/CTRF3SUBH))*  
 * LinkedIn (open-ish, requires a login) *(see [Digital Planning on LinkedIn](https://www.linkedin.com/posts/digital-planning-uk-gov_planning-officer-in-england-were-seeking-activity-7194632974963802113-3B1K))*  
 * Show and tells (can be open, often internal) *(see [MHCLG](https://www.youtube.com/channel/UCXoDA_N1xDFanzRb332aBqQ), [NHS 111 Online](https://111online.github.io/nhs111-resources/111online/show-and-tells/) and [GDS](https://www.youtube.com/watch?v=A6NAPQVwNOc))*  
 * Newsletters (open-ish) *(see [Open Digital Planning newsletter](https://uk.linkedin.com/company/open-digital-planning?trk=public_post_feed-actor-name) )*  
 * Backlogs and roadmaps (very open) *(see [The case for public backlogs and roadmaps, Public Digital](https://public.digital/pd-insights/blog/2024/07/filling-in-the-gaps-the-case-for-public-backlogs-roadmaps))*  
+* Design histories (very open) *(see [design history for Extract](https://digital-land.github.io/extract-alpha/design-history/))*
 * Service performance pages (very open) *(see [Planning Data performance](https://www.planning.data.gov.uk/about/performance), [GOV.UK Pay performance](https://www.payments.service.gov.uk/performance/), [Register to Vote performance](https://www.registertovote.service.gov.uk/performance))*
 * Events and conferences (open-ish, limited and irregular) *(see [Matt Wood Hill at SD in Gov](https://govservicedesign.net/programme/how-intervene-broken-markets-systems-approach-planning), [GOV.UK Design System Day](https://design-system.service.gov.uk/community/design-system-day/))*
 
@@ -70,7 +71,7 @@ Read the guide on [simple dos and don'ts for open project boards](/guides/dos-an
 
 * Matt Wood-Hill from Software wrote this excellent piece on [what it means to be open in this programme](https://www.linkedin.com/pulse/what-we-mean-open-digital-planning-open-digital-planning-wzeve)  
 * Different blog post [formats](https://www.usethehumanvoice.com/formats/)  
-* [How to write a great blog post](https://intranet.levellingup.gov.uk/task/internal-communications/write-a-great-blog-post/) (MHCLG Intranet)  
+* [How to write a great blog post](https://intranet.communities.gov.uk/guidance/internal-communications/write-a-great-blog-post/) (MHCLG Intranet)  
 * [A guide to agile communication, DEFRA Digital blog](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/)   
 * [Guide on doing weeknotes](https://doingweeknotes.com/) (plus examples of what good looks like)  
 * [Guide on doing show & tells](https://boringmagi.cc/2025/01/30/tips-on-doing-show-and-tell-well/)
