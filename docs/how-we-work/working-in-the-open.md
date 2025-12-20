@@ -72,7 +72,7 @@ Read the guide on [simple dos and don'ts for open project boards](/guides/dos-an
 * Matt Wood-Hill from Software wrote this excellent piece on [what it means to be open in this programme](https://www.linkedin.com/pulse/what-we-mean-open-digital-planning-open-digital-planning-wzeve)  
 * Different blog post [formats](https://www.usethehumanvoice.com/formats/)  
 * [How to write a great blog post](https://intranet.communities.gov.uk/guidance/internal-communications/write-a-great-blog-post/) (MHCLG Intranet)  
-* [A guide to agile communication, DEFRA Digital blog](https://defradigital.blog.gov.uk/a-guide-to-agile-communication/)   
+* [A guide to agile communication](https://gilest.org/doingopen/)   
 * [Guide on doing weeknotes](https://doingweeknotes.com/) (plus examples of what good looks like)  
 * [Guide on doing show & tells](https://boringmagi.cc/2025/01/30/tips-on-doing-show-and-tell-well/)
 * [Why people write weeknotes](https://visitmy.website/2020/11/01/why-i-write-weeknotes/)
