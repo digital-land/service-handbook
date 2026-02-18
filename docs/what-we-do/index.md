@@ -17,17 +17,10 @@ Those digital tools will need [data](/what-we-do/key-concepts#data) in order to 
 
 ## Vision
 
-Our aim is to make the planning system fit for the 21st century by making planning and housing data easier to find, use and trust. We make the data available, useful and trustworthy so that people can develop tools on top of the data.
+We are making the planning system fit for the 21st century. By making planning and housing data easier to find, use and trust at national scale, we enable better decisions, fewer uncertainties and delays, and unlock innovation in property and planning. We are building a future where planning is a conversation, not a process, informed by transparent data and collaboration between planners, developers and communities.
 
 ![A diagram of the Planning Data flywheel, illustrating a cyclical process. It starts with changing places (depicted by buildings, trees, and a wind turbine), which are administered by organisations collecting and standardising data. This data is made available nationally (shown as layered maps) and enables planning services (represented by hands using digital devices). These services inform decisions made by communities (depicted as a group of people), which lead back to changing places, completing the loop and reinforcing the cycle.](../assets/images/planning-data-flywheel.jpg)
 [Planning Data Flywheel](https://www.flickr.com/photos/psd/53561519291/in/album-72157703657907285) © psd
-
-We believe this will lead to: 
-
-- better planning decisions 
-- fewer uncertainties and delays in the housing system 
-- more new digital services for property and planning 
-- better relationships between communities and developments
 
 ### The problem we’re solving
 
