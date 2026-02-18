@@ -140,9 +140,7 @@ If we're successful in achieving our mission, there will be
 
 ### Key performance indicators
 
-Our North Star is the supply utilisation rate: how much of the data is being used. This helps ensure we're meeting the needs of data users in a way that maximises benefits for the public sector.
-
-We also track availability, quality and coverage. You can see our key performance indicators on our [performance dashboard](https://www.planning.data.gov.uk/about/performance). Each sub-service has its own key performance indicators.
+See [key performance indicators](/what-we-do/key-performance-indicators/).
 
 ## Links to other materials
 
