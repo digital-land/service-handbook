@@ -4,7 +4,7 @@ title: Key performance indicators
 
 These key performance indicators show that the platform is meeting its vision by making it easier to find, use and trust planning and housing data. We used [guiding principles](https://boringmagi.cc/2025/05/08/metrics-measures-and-indicators/) to help shape these KPIs.
 
-These KPIs are lagging indicators and each team has its own leading indicators. View the KPIs for [Designing data](/what-we-do/designing-data#key-performance-indicators), [Collecting and managing data](/what-we-do/collecting-data/#key-performance-indicators) and [Using data](/what-we-do/using-data/#key-performance-indicators).
+These KPIs are lagging indicators and each team has its own leading indicators. View the KPIs for [Designing data](/what-we-do/designing-data#key-performance-indicators), [Collecting and managing data](/what-we-do/collecting-and-managing-data/#key-performance-indicators) and [Using data](/what-we-do/using-data/#key-performance-indicators).
 
 You can see our key performance indicators on our [performance dashboard](https://www.planning.data.gov.uk/about/performance).
 

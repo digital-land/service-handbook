@@ -42,9 +42,26 @@ The sub-service also maintains and operates data processing, providing live supp
 
 ## Key performance indicators
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. **Average time taken to prepare and publish data**
+Shows how long it takes for an expected provision to be met by an LPA, on average. Can also be used to calculate how long it may take for all datasets to be provided. The number may fall as the team and Open Digital Planning community managers make it easier for LPAs to onboard, prepare and provide data.
+
+2. **Proportion of data issues resolved per week**
+Shows how the quality of data is improving or not. Should count both 'internal' and 'external' issues. Can signal whether internal processes are being adapted to keep on top of issues efficiently. 
+
+3. **Number of active data providers**
+As a proportion of all data providers. A data provider is active if none of their datasets are out-of-date or have erroring endpoints. This encourages datasets to be kept up to date and for connection errors to be resolved.
+
+4. **Percentage of data providers who fix data after issues raised**
+Shows that data providers are being kept engaged and are keeping datasets up to date. Data providers not captured by this metric can be targeted via the community. 
+
+5. **Number of datasets added per week**
+Shows that data operations are running and a flow of data is being added to the platform. Can highlight when operations are getting faster or slower, whether processes are being made more efficient or not. 
+
+6. **Data freshness (percentage of datasets not marked as old)**
+Shows that data is being kept up to date. Each dataset has an expected update frequency, for example, brownfield land is updated annually, Article 4 Directions are updated every 6 months, planning applications are updated every hour. If a data provider does not update a dataset on the expected udpate frequency, it is marked as old. 
+
+### Platform reliability KPIs
+
+These KPIs show that the platform is reliable and available. These can be replaced with [service level indicators and objectives](https://gds-way.digital.cabinet-office.gov.uk/standards/slo.html) in future.
+
+_Add KPIs from AWS Overwatch_
