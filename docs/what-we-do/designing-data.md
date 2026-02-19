@@ -37,9 +37,14 @@ Once the technical specification has been created, tested and verified, more dat
 
 ## Key performance indicators
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. **Average number of specifications added to the platform per month**
+Shows that there is a flow of data specifications being designed and added to the platform. It can highlight good flow but also signal bottlenecks and blockages. The number will fluctuate depending on the complexity of specifications being worked on, e.g. conservation areas compared to planning applications & decisions.
+
+2. **Ratio of active working groups to specifications in co-design and testing**
+Shows the amount of community participation in co-designing data specifications with data consumers, data providers and other stakeholders. Highlights that the team is using open methods to design and test specifications, increasing the likelihood that specifications will be fit for purpose.
+
+3. **Average time taken to design a specification**
+Shows the effort and efficiency in designing data specifications on average. Complicated specifications requiring a lot of effort would make this a high number, but adding more specifications for which data have already been published would reduce the number. 
+
+4. **Specification guidance quality score**
+A quality measure of the guidance for each specification. A high score means guidance is easy to follow, but falling scores suggest that something needs looking at. Measured using CSAT. An average score could be calculated.
