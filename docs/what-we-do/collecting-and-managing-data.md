@@ -10,7 +10,7 @@ order: 3
 
 This sub-service makes it easy for local planning authorities and other organisations to provide high quality, trustworthy data. It actively manages data to ensure completeness, uniqueness, consistency, timeliness, validity, and accuracy. 
 
-Data providers can use the sub-service to [prepare, provide and maintain planning data](https://submit.planning.data.gov.uk/) with clear steps and actionable feedback provided along the way. The sub-service gives local authorities a view of data about their area from other sources, allowing them to ensure the most accurate and up-to-date data is available. 
+Data providers can use the sub-service to [prepare, provide and maintain planning data](https://provide.planning.data.gov.uk/) with clear steps and actionable feedback provided along the way. The sub-service gives local authorities a view of data about their area from other sources, allowing them to ensure the most accurate and up-to-date data is available. 
 
 The sub-service also maintains and operates data processing, providing live support for the wider service. 
 
