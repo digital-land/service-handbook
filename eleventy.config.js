@@ -8,7 +8,7 @@ module.exports = async function(eleventyConfig) {
     eleventyConfig.addPlugin(govukEleventyPlugin,{
         header: {
             logotype: {
-                text: 'Planning Data'
+                text: 'Planning Data '
             },
             productName: 'Service Handbook',
         },
