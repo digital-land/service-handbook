@@ -1,10 +1,9 @@
-const govukEleventyPlugin = require('@x-govuk/govuk-eleventy-plugin')
-
 function capitalizeWords(str) {
     return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase();
 }
 
-module.exports = function(eleventyConfig) {
+module.exports = async function(eleventyConfig) {
+    const { govukEleventyPlugin } = await import('@x-govuk/govuk-eleventy-plugin')
     // Register the plugin
     eleventyConfig.addPlugin(govukEleventyPlugin,{
         header: {
@@ -29,9 +28,7 @@ module.exports = function(eleventyConfig) {
             }
         },
         titleSuffix: 'Planning Data Service Handbook',
-        stylesheets:['/assets/wiki.css'],
-        showBreadcrumbs: true,
-        scssSettingsPath: '../assets/_settings.scss'
+        showBreadcrumbs: true
     })
     eleventyConfig.addCollection("allPages", function(collection) {
         return collection.getAll().filter(item => item.outputPath && item.inputPath.endsWith('.md'));
