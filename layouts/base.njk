@@ -1,5 +1,9 @@
-{% extends "../node_modules/@x-govuk/govuk-eleventy-plugin/layouts/base.njk" %}
+{% extends "../node_modules/@x-govuk/govuk-eleventy-plugin/src/layouts/base.njk" %}
 {% from "./components/wiki-nav/macro.njk" import wikiNav %}
+{% block head %}
+  {{ super() }}
+  <link rel="stylesheet" href="{{ '/assets/wiki.css' | canonicalUrl }}">
+{% endblock %}
 {% block beforeContent %}
 {% endblock %}
 
