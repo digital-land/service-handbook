@@ -1,9 +1,9 @@
 {% from "../wiki-nav-item/macro.njk" import wikiNavItem %}
-{% macro wikiNav(pages) %}
+{% macro wikiNav(pages, currentUrl = "") %}
   <nav class="x-govuk-sub-navigation" aria-labelledby="sub-navigation-heading">
-    <ul class="wiki-nav_section wiki-nav_section_1">
-          {% for key,page in pages %}
-            {{ wikiNavItem(page, 1) }}
+    <ul class="x-govuk-sub-navigation__section">
+          {% for itemKey,itemNode in pages %}
+            {{ wikiNavItem(itemNode, 1, currentUrl) }}
           {% endfor %}
     </ul>
   </nav>

@@ -2,7 +2,6 @@
 {% from "./components/wiki-nav/macro.njk" import wikiNav %}
 {% block head %}
   {{ super() }}
-  <link rel="stylesheet" href="{{ '/assets/wiki.css' | canonicalUrl }}">
 {% endblock %}
 {% block beforeContent %}
 {% endblock %}
@@ -10,7 +9,7 @@
 {% block content %}
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-one-quarter-from-desktop">
-      {{ wikiNav(collections.nestedPages) }}
+      {{ wikiNav(collections.nestedPages, page.url) }}
     </div>
     <div class="govuk-grid-column-three-quarters-from-desktop">
       {{ appDocumentHeader({
