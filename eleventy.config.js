@@ -28,6 +28,7 @@ module.exports = async function(eleventyConfig) {
             }
         },
         titleSuffix: 'Planning Data Service Handbook',
+        stylesheets: ['/assets/application.css'],
         showBreadcrumbs: true
     })
     eleventyConfig.addCollection("allPages", function(collection) {

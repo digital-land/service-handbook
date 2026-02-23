@@ -1,0 +1,15 @@
+---
+eleventyExcludeFromCollections: true
+permalink: /assets/application.css
+---
+// Use GOV.UK Frontend
+@use "pkg:govuk-frontend/dist/govuk" with (
+  $govuk-assets-path: "/assets/",
+  $govuk-font-family: ("Helvetica Neue", Arial, sans-serif),
+  $govuk-global-styles: true,
+  $govuk-new-organisation-colours: true,
+  $govuk-new-typography-scale: true
+);
+
+// Use GOV.UK Eleventy Plugin components
+@forward "pkg:@x-govuk/govuk-eleventy-plugin";
