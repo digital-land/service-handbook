@@ -104,16 +104,6 @@ This isn't an exhaustive list.
 
 This isn't an exhaustive list.
 
-## Our service model
-
-The Planning Data service has three main sub-services:
-
-- Designing data standards that work well for data providers _and_ data consumers
-- Collecting, indexing and managing data, helping improve its quality and trustworthiness
-- A reliable platform which makes it as easy as possible to use and re-use the data
-
-You can read more about [designing data](/what-we-do/designing-data/), [collecting data](/what-we-do/collecting-data/) and [using data](/what-we-do/using-data/).
-
 ## What success looks like
 
 The Planning Data service will be achieving its aim if
