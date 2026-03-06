@@ -1,6 +1,7 @@
 {% from "../wiki-nav-item/macro.njk" import wikiNavItem %}
-{% macro wikiNav(pages, currentUrl = "") %}
-  <nav class="x-govuk-sub-navigation" aria-labelledby="sub-navigation-heading">
+{% macro wikiNav(pages, currentUrl = "", headingId = "sub-navigation-heading") %}
+  <nav class="x-govuk-sub-navigation" aria-labelledby="{{ headingId }}">
+    <h2 class="govuk-visually-hidden" id="{{ headingId }}">Pages in this section</h2>
     <ul class="x-govuk-sub-navigation__section">
           {% for itemKey,itemNode in pages %}
             {{ wikiNavItem(itemNode, 1, currentUrl) }}

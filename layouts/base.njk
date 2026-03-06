@@ -1,5 +1,6 @@
 {% extends "../node_modules/@x-govuk/govuk-eleventy-plugin/src/layouts/base.njk" %}
 {% from "./components/wiki-nav/macro.njk" import wikiNav %}
+{% from "govuk/components/details/macro.njk" import govukDetails %}
 {% block head %}
   {{ super() }}
 {% endblock %}
@@ -9,9 +10,18 @@
 {% block content %}
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-one-quarter-from-desktop">
-      {{ wikiNav(collections.nestedPages, page.url) }}
+      <div class="app-sidebar-nav app-sidebar-nav--desktop">
+        {{ wikiNav(collections.nestedPages, page.url, "sub-navigation-desktop") }}
+      </div>
     </div>
     <div class="govuk-grid-column-three-quarters-from-desktop">
+      <div class="app-sidebar-nav app-sidebar-nav--mobile">
+        {{ govukDetails({
+          summaryText: "Menu",
+          html: wikiNav(collections.nestedPages, page.url, "sub-navigation-mobile")
+        }) }}
+      </div>
+
       {{ appDocumentHeader({
         title: title,
         description: description

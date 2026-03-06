@@ -13,3 +13,24 @@ permalink: /assets/application.css
 
 // Use GOV.UK Eleventy Plugin components
 @forward "pkg:@x-govuk/govuk-eleventy-plugin";
+
+/* Keep desktop sidebar nav while switching to a collapsed menu on small screens. */
+.app-sidebar-nav--mobile {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 48.0619em) {
+  .app-sidebar-nav--desktop {
+    display: none;
+  }
+
+  .app-sidebar-nav--mobile .govuk-details {
+    margin-bottom: 1rem;
+  }
+}
+
+@media (min-width: 48.0625em) {
+  .app-sidebar-nav--mobile {
+    display: none;
+  }
+}
