@@ -2,9 +2,8 @@
 title: Product and delivery
 order: 8
 ---
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
-
-{{ govukWarningText({
-  text: "This page is under construction",
-  iconFallbackText: "Warning"
-}) }}
+<ul class="govuk-list govuk-list--bullet">
+  {% for key, guide in collections.nestedPages['product-and-delivery'].children %}
+    <li><a class="govuk-link" href="{{ guide.url }}">{{ guide.title }}</a></li>
+  {% endfor %}
+</ul>

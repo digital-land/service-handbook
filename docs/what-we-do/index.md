@@ -2,12 +2,6 @@
 title: What we do
 order: 4
 ---
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
-
-{{ govukWarningText({
-  text: "This page is under construction",
-  iconFallbackText: "Warning"
-}) }}
 
 Lots of [planning](/what-we-do/key-concepts#planning) processes are slow and use old tools or paper-based information. MHCLG's [Digital Planning portfolio](https://media.localdigital.gov.uk/uploads/2023/10/17091341/DLUHC_Digital_Planning_Programme_Overview.pdf) thinks that innovative digital products and services can speed things up and make planning more efficient, leading to more property development. 
 
