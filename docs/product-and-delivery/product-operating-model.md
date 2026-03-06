@@ -1,6 +1,8 @@
-<!-- Credits: This model and its principles were established by Steve (https://boringmagi.cc), and it was implemented and iterated by Charlie (@CharliePatterson) and team. -->
+---
+title: Product operating model
+---
 
-# Product operating model
+<!-- Credits: This model and its principles were established by Steve (https://boringmagi.cc), and it was implemented and iterated by Charlie (@CharliePatterson) and team. -->
 
 > This was the product operating model for the Providers team, which is now part of Collecting & Managing Data. This model may be adopted by any other product team working on the platform.
 

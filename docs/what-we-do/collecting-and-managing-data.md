@@ -1,4 +1,5 @@
 ---
+title: Collecting and managing data
 order: 3
 ---
 {% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
