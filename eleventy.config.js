@@ -11,6 +11,10 @@ module.exports = async function(eleventyConfig) {
                 text: 'Planning Data '
             },
             productName: 'Service Handbook',
+            search: {
+                indexPath: '/search-index.json',
+                label: 'Search the handbook'
+            }
         },
         footer: {
             meta: {
@@ -134,7 +138,11 @@ module.exports = async function(eleventyConfig) {
     
     // Add the custom collection to Eleventy
     eleventyConfig.addCollection("nestedPages", function(collection) {
-        const allPages = collection.getAll().sort((a, b) => {
+        const allPages = collection.getAll().filter((item) => {
+            return item.outputPath &&
+                item.outputPath.endsWith('.html') &&
+                !item.data.eleventyExcludeFromCollections;
+        }).sort((a, b) => {
             // Sort by URL
             return a.url.localeCompare(b.url);
           });
