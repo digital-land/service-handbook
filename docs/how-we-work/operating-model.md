@@ -17,7 +17,7 @@ It's not a linear model: it is a continuous improvement loop, so that the platfo
 
 ## How to use
 
-This page gives new recruits and our stakeholders an idea of how works flows from end to end. It's not intended to cover every process in granular detail, but teams can build on this and add more detail where necessary. The operating model is visualised and explained in more detail in a [shared workbook](https://mhclg.sharepoint.com/:x:/s/DigitalPlanning/IQA_uck86o3LT5BImXBX0s8_AYmbqQpI4BIedAWg0gsfoOA?e=m9Kv7L).
+This page gives new recruits and our stakeholders an idea of how works flows from end to end. It's not intended to cover every process in granular detail, but teams can build on this and add more detail where necessary. The operating model is visualised and explained in more detail in a [shared workbook](https://mhclg.sharepoint.com/:x:/s/DigitalPlanning/IQA_uck86o3LT5BImXBX0s8_AYmbqQpI4BIedAWg0gsfoOA?e=m9Kv7L). <!-- Data Design worked on an updated version of their process, which needs reviewing alongside this model to ensure the two overlap and complement each other. https://mhclg.sharepoint.com/:x:/s/DigitalPlanning/IQCsbfvcq9cPQLqQolRfysqZAQfSQJ2MLnOZIGVSaJGMM1s?e=LanjEz -->
 
 ## The steps explained
 
