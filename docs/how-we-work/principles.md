@@ -1,9 +1,11 @@
 ---
 title: Principles
 ---
-{% from "govuk/components/warning-text/macro.njk" import govukWarningText %}
 
-{{ govukWarningText({
-  text: "This page is under construction",
-  iconFallbackText: "Warning"
-}) }}
+## Team principles
+
+## Service principles
+
+## Data standards principles
+
+Find the [data standards principles](/research-and-design/data-standards-principles/) in the [Research and design](/research-and-design/) section.
