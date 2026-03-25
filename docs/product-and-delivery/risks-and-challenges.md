@@ -21,3 +21,7 @@ Our data providers are mostly local authorities, with established processes and 
 This means our data operations and internal tools need to be excellent.
 
 ## Capacity
+
+Having all planning applications and decisions on the platform is likely to drive considerable demand for other planning datasets. Not only through cross-referencing but also on making predictions or analyses. Having enough people to do the work is a problem everywhere, but this will be a problem when designing data standards fast enough to meet demand.
+
+The team is currently constrained with only a few people working on the designing data standards. This team will need to grow in order to scale the data design function, and the department is fond of keeping headcount low. 
