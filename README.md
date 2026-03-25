@@ -8,6 +8,14 @@ A handbook for people working on the Planning Data service.
 3. In the `service-handbook` directory, run `make init`.
 4. Run `make serve`.
 
+## Publishing Updates
+
+Updates are published automatically through GitHub Actions.
+
+Any commit pushed to `main` triggers the deploy workflow (in `/service-handbook/.github/workflows/deploy-documentation.yml`). This includes pull requests that are merged into `main`.
+
+The workflow builds the handbook and publishes it to GitHub Pages, so changes appear on the live site after the workflow completes.
+
 ## Using GitHub Codespaces
 
 If you want to contribute using GitHub Codespaces, follow these steps:
